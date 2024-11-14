@@ -7,9 +7,9 @@ This report is intended for:
 Executives
 Finance, Sales, Marketing, and Supply Chain teams
 
-Report Views
+## Report Views
 Data spans from September 1, 2017, to December 1, 2021, with a fiscal year starting in September. Users can filter data by region/market, customer segment, category, year, quarter, and current year metrics (YTD/YTG) with the base year set as 2022.
-1. Finance View
+### 1. Finance View
 Key Metrics:
 Card Visuals: Net Sales vs Benchmark, Gross Margin % vs Benchmark, Net Profit % vs Benchmark
 
@@ -21,7 +21,7 @@ Insights Provided:
 Track year-over-year (LY) performance and current year targets.
 Filter charts to measure performance against last year's metrics and current targets.
 
-2. Sales View
+### 2. Sales View
 Key Metrics:
 Matrix Visuals: Customer and Product performance tables covering Net Sales, Gross Margin, and GM%
 
@@ -33,7 +33,7 @@ Insights Provided:
 Track year-over-year (LY) performance and current year targets.
 Performance matrix filters allow users to focus on markets/customers with significant GM% variances (0–20%).
 
-3. Marketing View
+### 3. Marketing View
    
 Key Metrics:
 Matrix Visuals: Customer and Product performance tables covering Net Sales, Gross Margin, GM%, Net Profit, and Net Profit %
@@ -45,7 +45,7 @@ Donut Chart: Gross Margin and COGS mix
 Waterfall Chart: Differences in values between Gross Margin, Operating Expense, and Net Profit
 
 
-4. Supply Chain View
+### 4. Supply Chain View
    
 Key Metrics:
 Card Visuals: Forecast Accuracy vs LY, Net Error vs LY, ABS Error vs LY
