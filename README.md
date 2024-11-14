@@ -53,19 +53,19 @@ Matrix Tables: Customer and product-level breakdowns for Forecast Accuracy, Net 
 Line & Clustered Column Chart: Net Error over time with trendlines for forecast accuracy (current and last year)
 
 
-Data Sources
+## Data Sources
 Data Origin: The report integrates data from Atliq’s ERP and CRM systems.
 Refresh Rate: Data is updated on a weekly basis to ensure timely insights.
 
-Report Navigation
+## Report Navigation
 Usage Tips: Navigate between views using the report’s tabs. Each view includes filters for region, market, customer segment, category, year, quarter, and YTD/YTG metrics.
 Global Filters: Users can apply filters across all views to analyze performance at various levels (region, customer, and category).
 
-Security and Access
+## Security and Access
 Access Restrictions: Access to the report is controlled at the departmental level. Executive and Finance views may contain sensitive financial data.
 Data Sensitivity: Certain financial and forecast metrics may be restricted based on user permissions.
 
-Report Update Information
+## Report Update Information
 Version Control: The report follows version control, with changelogs maintained for all updates and feature additions.
 
-This README provides a structured overview of the Atliq Hardware 360 Insights Report, ensuring users can effectively navigate and understand the data. Please reach out with questions or suggestions for further customization.
+### This README provides a structured overview of the Atliq Hardware 360 Insights Report, ensuring users can effectively navigate and understand the data. Please reach out with questions or suggestions for further customization.
