@@ -12,12 +12,15 @@ Data spans from September 1, 2017, to December 1, 2021, with a fiscal year start
 1. Finance View
 Key Metrics:
 Card Visuals: Net Sales vs Benchmark, Gross Margin % vs Benchmark, Net Profit % vs Benchmark
+
 Matrix Visuals: Profit & Loss Statement, Top & Bottom Customers, Top & Bottom Products
+
 Area Chart: Net Sales Performance over time
+
 Insights Provided:
 Track year-over-year (LY) performance and current year targets.
 Filter charts to measure performance against last year's metrics and current targets.
-2. Sales View
+3. Sales View
 Key Metrics:
 Matrix Visuals: Customer and Product performance tables covering Net Sales, Gross Margin, and GM%
 Scatter Chart: Performance matrix of GM% for each region, with drill-down options by market and customer
@@ -25,13 +28,13 @@ Donut Chart: Percentage mix of Pre and Post invoice discounts, Net Sales, Gross 
 Insights Provided:
 Track year-over-year (LY) performance and current year targets.
 Performance matrix filters allow users to focus on markets/customers with significant GM% variances (0–20%).
-3. Marketing View
+4. Marketing View
 Key Metrics:
 Matrix Visuals: Customer and Product performance tables covering Net Sales, Gross Margin, GM%, Net Profit, and Net Profit %
 Scatter Chart: Division performance matrix with toggle for GM% and NP%, with drill-down to segment, category, and product levels
 Donut Chart: Gross Margin and COGS mix
 Waterfall Chart: Differences in values between Gross Margin, Operating Expense, and Net Profit
-4. Supply Chain View
+5. Supply Chain View
 Key Metrics:
 Card Visuals: Forecast Accuracy vs LY, Net Error vs LY, ABS Error vs LY
 Matrix Tables: Customer and product-level breakdowns for Forecast Accuracy, Net Error, Risk Analysis
