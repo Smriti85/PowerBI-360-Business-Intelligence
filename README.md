@@ -1,6 +1,5 @@
 ## DASHBOARD LINK
-https://app.powerbi.com/view?r=eyJrIjoiOWM4NzhiZGEtNWI2NC00NjQxLWFlOGItMDhkM2MzYWQ1ODVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
+(https://www.naturl.link/bi360)
 
 ## PowerBI-360-Business-Intelligence
 Atliq Hardware Business 360 Insights Report
@@ -8,11 +7,11 @@ Overview
 This Business 360 Insights Report has been developed to analyze and visualize critical business metrics for Atliq Hardware, a global electronic hardware company with multiple sales channels. The report provides a comprehensive overview across key departments—Finance, Sales, Marketing, and Supply Chain—along with a dedicated view for the Executive team. This interactive Power BI tool marks Atliq’s first major step toward data-driven decision-making, aligning with the executive team's vision of embedding analytical insights into the company's work culture.
 Audience
 This report is intended for:
-Executives
-Finance, Sales, Marketing, and Supply Chain teams
+Executives, Finance, Sales, Marketing, and Supply Chain teams
 
 ### Report Views
 Data spans from September 1, 2017, to December 1, 2021, with a fiscal year starting in September. Users can filter data by region/market, customer segment, category, year, quarter, and current year metrics (YTD/YTG) with the base year set as 2022.
+
 #### 1. Finance View
 Key Metrics:
 Card Visuals: Net Sales vs Benchmark, Gross Margin % vs Benchmark, Net Profit % vs Benchmark
@@ -23,7 +22,8 @@ Area Chart: Net Sales Performance over time
 
 Insights Provided:
 Track year-over-year (LY) performance and current year targets.
-Filter charts to measure performance against last year's metrics and current targets.
+Filter charts to measure performance against last year's metrics and current targets
+
 
 #### 2. Sales View
 Key Metrics:
